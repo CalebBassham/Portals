@@ -1,0 +1,5 @@
+name: Portals
+author: Caleb Bassham
+version: "1.0"
+api-version: "1.14"
+main: me.calebbassham.portals.Plugin
